@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta property="og:type" content="article">
 <meta property="og:title" content="测试文章">
-<meta property="og:url" content="http://example.com/2022/04/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/index.html">
+<meta property="og:url" content="http://example.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0">
 <meta property="og:site_name" content="Hexo">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="http://example.com/image/test.png">
@@ -75,7 +75,7 @@
       <div class="outer">
         <section id="main"><article id="post-测试文章" class="h-entry article article-type-post" itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
   <div class="article-meta">
-    <a href="/2022/04/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/" class="article-date">
+    <a href="/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0" class="article-date">
   <time class="dt-published" datetime="2022-04-04T14:52:25.000Z" itemprop="datePublished">2022-04-04</time>
 </a>
     
@@ -100,7 +100,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="http://example.com/2022/04/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/" data-id="cl1kv9wj40001vcucd60o06h2" data-title="测试文章" class="article-share-link">Share</a>
+      <a data-url="http://example.com/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0" data-id="cl1kvm50500016suc1yc7h6q0" data-title="测试文章" class="article-share-link">Share</a>
       
       
       
@@ -111,7 +111,7 @@
 <nav id="article-nav">
   
   
-    <a href="/2022/04/04/hello-world/" id="article-nav-older" class="article-nav-link-wrap">
+    <a href="/hello-world" id="article-nav-older" class="article-nav-link-wrap">
       <strong class="article-nav-caption">Older</strong>
       <div class="article-nav-title">Hello World</div>
     </a>
@@ -151,11 +151,11 @@
       <ul>
         
           <li>
-            <a href="/2022/04/04/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/">测试文章</a>
+            <a href="/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0">测试文章</a>
           </li>
         
           <li>
-            <a href="/2022/04/04/hello-world/">Hello World</a>
+            <a href="/hello-world">Hello World</a>
           </li>
         
       </ul>
